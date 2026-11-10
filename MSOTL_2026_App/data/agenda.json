@@ -1,0 +1,680 @@
+[
+  {
+    "id": "keynote-1",
+    "day": 1,
+    "time": "09:05 - 09:15",
+    "room": "Auditorium",
+    "teams_url": "https://teams.microsoft.com/meet/28237407470917?p=SgRggr37CPnaMubeOp",
+    "title": "Welcome Remarks",
+    "speaker": "BGen Matthew Tracy",
+    "institution": "Marine Corps University",
+    "track": "Leadership",
+    "abstract": "Commanding General, Marine Corps University / Education Command opening address to the 7th Annual Military Scholarship of Teaching and Learning Forum."
+  },
+  {
+    "id": "keynote-2",
+    "day": 1,
+    "time": "09:15 - 10:00",
+    "room": "Auditorium",
+    "teams_url": "https://teams.microsoft.com/meet/28237407470917?p=SgRggr37CPnaMubeOp",
+    "title": "Keynote: Research into Competency Acquisition with Novel E-gaming (RCANE)",
+    "speaker": "LCDR Mike 'Tinder' Natali, Ph.D.",
+    "institution": "Office of Naval Research (ONR)",
+    "track": "Educational Technology",
+    "abstract": "Research into Competency Acquisition with Novel E-gaming (RCANE) is an innovative research effort at Marine Corps University meant to improve the cognitive and leadership skills of Marines going through the Sergeants Course. Funded by the Office of Naval Research and leveraging scientists from Academia and Government, RCANE is designed to strengthen cognitive capabilities through targeted, deliberate practice in team-oriented, fast-paced video games."
+  },
+  {
+    "id": "keynote-3",
+    "day": 2,
+    "time": "09:00 - 09:45",
+    "room": "Auditorium",
+    "teams_url": "https://teams.microsoft.com/meet/28237407470917?p=SgRggr37CPnaMubeOp",
+    "title": "Keynote: Research Convergence as Marine Force Capability",
+    "speaker": "Dr. James Giordano",
+    "institution": "National Defense University / MCU Adjunct Fellow",
+    "track": "Research Methods",
+    "abstract": "The increasingly complex, technologically enabled battlespace demands convergent research integrating biological, psychological, and social sciences to understand, assess, and strengthen the multidimensional capabilities of Marines and the Marine Corps. This keynote explores how interdisciplinary research can enhance individual readiness, resilience, cognitive performance, unit cohesion, and collective operational effectiveness."
+  },
+  {
+    "id": "keynote-4",
+    "day": 2,
+    "time": "16:00 - 16:30",
+    "room": "Auditorium",
+    "teams_url": "https://teams.microsoft.com/meet/28237407470917?p=SgRggr37CPnaMubeOp",
+    "title": "Closing Remarks: Educational Leadership as Noun and Verb",
+    "speaker": "Col Jarrod W. Stoutenborough, Ph.D.",
+    "institution": "TECOM G-5 Education Directorate",
+    "track": "Leadership",
+    "abstract": "Educational leadership can be described as both a noun and verb; both of which provide all of us with opportunities to serve as the educator, leader, learner, and led. In today's security environment, the ability to critically think through complex problems is a coveted skillset, and education continues to serve as the catalyst for its development."
+  },
+  {
+    "id": "session-5",
+    "day": 1,
+    "title": "BGen Tracy was born in West Hartford, Connecticut and earned a Bachelor of Arts from Vanderbilt University and a commissioning through their NROTC program in 1997.",
+    "speaker": "BGen Tracy\u2019s command assignments include Platoon Commander and Executive Officer with 3D BN, 8TH MAR, Company Commander with the Chemical Biological Incident Response Force (CBIRF) and Company Commander with 2ND BN, 3RD MAR, Commanding Officer of Recruiting Station Chicago, Battalion Commander of 3RD BN, 3RD MAR, and Commanding Officer of the 4TH MAR REG. His staff assignments include Future Operations and Plans Officer at Marine Forces Pacific and U.S. Special Operations Command. He has served twice as an Assistant Chief of Staff for the Third Marine Expeditionary Force (III MEF) Okinawa, Japan. He has served once as War Plans (G5) and once as Operations (G3). He most recently concluded service at the Headquarters of Marine Corps; Plans, Policies, and Operations; in the Future Operations Branch.",
+    "institution": "BGen Tracy\u2019s military education includes The Basic School, the Expeditionary Warfare School, the College of Naval Command and Staff, and the College of Naval Warfare. In addition, BGen Tracy is a graduate of the Maritime Advanced Warfare School. He has combat experience from Kosovo, Afghanistan, and Iraq and has supported humanitarian relief operations in Albania, Turkey, the Philippines, and the United States. His awards and decorations include the two Legions of Merit, the Bronze Star with distinguishing device, the Defense Meritorious Service Medal, three Meritorious Service Medals, two Combat Action Ribbons, a Navy Commendation medal, three Navy and Marine Corps Commendation Medals, and various unit and service medals and ribbons. He was the recipient of the 2006 Leftwich Award for leadership.",
+    "track": "Educational Technology",
+    "abstract": "Research into Competency Acquisition with Novel E-gaming (RCANE) is an innovative research effort at Marine Corps University meant to improve the cognitive and leadership skills of Marines going through the Sergeants Course. Funded by the Office of Naval Research and leveraging scientists from Academia and Government, RCANE is designed to strengthen cognitive capabilities through targeted, deliberate practice in team-oriented, fast-paced video games. The intervention requires participants to repeatedly identify relevant cues, suppress distractions, rapidly shift attention, process information, and make decisions under sustained cognitive load \u2013 conditions associated with neuroplastic adaptation. Initial results support this concept: RCANE participants demonstrated higher performance in the Small Unit Leadership Evaluation (SULE) alongside statistically significant gains in spatial processing and working memory capacity. Work is ongoing to improve the methodology and confirm results."
+  },
+  {
+    "id": "session-6",
+    "day": 1,
+    "title": "BGen Tracy\u2019s military education includes The Basic School, the Expeditionary Warfare School, the College of Naval Command and Staff, and the College of Naval Warfare. In addition, BGen Tracy is a graduate of the Maritime Advanced Warfare School. He has combat experience from Kosovo, Afghanistan, and Iraq and has supported humanitarian relief operations in Albania, Turkey, the Philippines, and the United States. His awards and decorations include the two Legions of Merit, the Bronze Star with distinguishing device, the Defense Meritorious Service Medal, three Meritorious Service Medals, two Combat Action Ribbons, a Navy Commendation medal, three Navy and Marine Corps Commendation Medals, and various unit and service medals and ribbons. He was the recipient of the 2006 Leftwich Award for leadership.",
+    "speaker": "Abstract: Research into Competency Acquisition with Novel E-gaming (RCANE) is an innovative research effort at Marine Corps University meant to improve the cognitive and leadership skills of Marines going through the Sergeants Course. Funded by the Office of Naval Research and leveraging scientists from Academia and Government, RCANE is designed to strengthen cognitive capabilities through targeted, deliberate practice in team-oriented, fast-paced video games. The intervention requires participants to repeatedly identify relevant cues, suppress distractions, rapidly shift attention, process information, and make decisions under sustained cognitive load \u2013 conditions associated with neuroplastic adaptation. Initial results support this concept: RCANE participants demonstrated higher performance in the Small Unit Leadership Evaluation (SULE) alongside statistically significant gains in spatial processing and working memory capacity. Work is ongoing to improve the methodology and confirm results.",
+    "institution": "LCDR Mike \u201cTinder\u201d Natali, Ph.D. is the Manpower, Personnel, Education, & Training Program Officer for Office of Naval Research where he oversees innovative research expanding Navy\u2019s capability to select, man, and train Sailors and Marines. Across his career, he has managed science and technology programs enhancing warfighter performance through testing and integration of emerging technologies; development and validation of improved training methodologies; and research to enhance the predictive power of assessments all to ensure the Navy and Marine Corps continued maritime dominance. LCDR Natali completed his doctorate in Industrial/Organizational Psychology at University of Minnesota in 2014 and afterwards joined the Navy as an Aerospace Experimental Psychologist in the Medical Service Corps. His expertise covers personnel selection, training systems and evaluation, performance measurement, and human-systems integration within military settings.",
+    "track": "Research Methods",
+    "abstract": "The increasingly complex, technologically enabled battlespace demands convergent research integrating biological, psychological, and social sciences to understand, assess, and strengthen the multidimensional capabilities of Marines and the Marine Corps. This keynote explores how interdisciplinary research can enhance individual readiness, resilience, cognitive performance, unit cohesion, and collective operational effectiveness. Emphasis will be placed on translating scientific discovery into actionable force capability, strengthening the Marine Corps\u2019 contribution to joint force readiness, adaptability, and strategic advantage amid accelerating technological change and intensifying global power competition."
+  },
+  {
+    "id": "session-7",
+    "day": 1,
+    "title": "LCDR Mike \u201cTinder\u201d Natali, Ph.D. is the Manpower, Personnel, Education, & Training Program Officer for Office of Naval Research where he oversees innovative research expanding Navy\u2019s capability to select, man, and train Sailors and Marines. Across his career, he has managed science and technology programs enhancing warfighter performance through testing and integration of emerging technologies; development and validation of improved training methodologies; and research to enhance the predictive power of assessments all to ensure the Navy and Marine Corps continued maritime dominance. LCDR Natali completed his doctorate in Industrial/Organizational Psychology at University of Minnesota in 2014 and afterwards joined the Navy as an Aerospace Experimental Psychologist in the Medical Service Corps. His expertise covers personnel selection, training systems and evaluation, performance measurement, and human-systems integration within military settings.",
+    "speaker": "Abstract: The increasingly complex, technologically enabled battlespace demands convergent research integrating biological, psychological, and social sciences to understand, assess, and strengthen the multidimensional capabilities of Marines and the Marine Corps. This keynote explores how interdisciplinary research can enhance individual readiness, resilience, cognitive performance, unit cohesion, and collective operational effectiveness. Emphasis will be placed on translating scientific discovery into actionable force capability, strengthening the Marine Corps\u2019 contribution to joint force readiness, adaptability, and strategic advantage amid accelerating technological change and intensifying global power competition.",
+    "institution": "Dr. James Giordano serves as Special Advisor to the Assistant Secretary of War-NDCBD, and is Head of the Center for Strategic Deterrence and Study of Weapons of Mass Destruction of the Institute for National Strategic Studies at the National Defense University. As well, Dr. Giordano is currently Distinguished Adjunct Research Fellow of the Marine Corps University.\u00a0 His work focuses upon the development and use of emerging technologies in warfighting, and proactive and reactive approaches to deterrence of biological, chemical, cognitive and autonomous systems\u2019 warfare. The author of over 400 publications, 10 books and 30 government reports, he holds a PhD in biological psychology from the City University of New York, a DPhil in digital technology systems from the University of Regensburg (GER), and completed post-doctoral training in pathology, toxicology, ethics and science and technology policy. A former US Naval Aerospace Physiologist and Psychologist, he served with the US Navy and Marine Corps.",
+    "track": "Educational Technology",
+    "abstract": "Educational leadership can be described as both a noun and verb; both of which provide all of us with opportunities to serve as the educator, leader, learner, and led. I am confident that this forum has cultivated fresh, applicable perspectives on educational leadership while simultaneously providing all participants with new ways to advance scholarship in their respective arenas. In today's security environment, the ability to critically think through complex problems is a coveted skillset, and education continues to serve as the catalyst for its development. That said, bringing leadership into the educational equation is what 21st century learners require and deserve to empower their success."
+  },
+  {
+    "id": "session-8",
+    "day": 1,
+    "title": "Leveraging Neuroplasticity Principles to boost Learning and Student Success Outcomes among Enlisted Naval Service Members",
+    "speaker": "Dr. Mrim Boutla, Dr. Scott Hamm",
+    "institution": "U.S. Naval Community College, Annapolis, MD",
+    "track": "Educational Technology",
+    "abstract": "New insights from neuroplasticity (or how new experiences rewire the adult brain) have led to significant changes in curriculum design and metrics of learning and student success outcomes. As coined by Kahneman, System 1 thinking relies on neuroplasticity principles and can improve the observation, orientation, decision and action (OODA) loop process. In contrast, System 2 thinking is designed to remain aware of circumstances, so a service member must remain open to observing changing circumstances so they can re-orient their decision-making efforts to inform their decisions and actions. On the one hand, neuroplasticity research has further established the value of traditional training activities, which can strengthen System 1 thinking. For example, the right training protocol based on high volumes of repetition will increase marksmanship. However, these traditional training protocols are of limited effectiveness when attempting to sharpen System 2 thinking."
+  },
+  {
+    "id": "session-9",
+    "day": 1,
+    "title": "From Cognitive Offloading to Epistemic Fit: AI, Learning, and Judgment in PME Wargaming",
+    "speaker": "Dr. Ava Loer1, Dr. Cary Stothart1, LTC Blair Wilcox2, Dr. C. Anthony Pfaff2",
+    "institution": "1U.S. Army Research Institute, Leavenworth, KS. 2U.S. Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "This presentation reports findings from a collaborative, cross-disciplinary study of AI-supported cognitive offloading in a professional military education wargame. The study examined how Army leaders used AI during wargaming, how AI use differed across teams, how AI use related to cognitive heuristic errors, and what the findings suggest for military education. The project drew on senior military leader development research, cognitive psychology, and industrial/organizational psychology to examine AI use in a military educational setting designed to simulate strategic decision-making."
+  },
+  {
+    "id": "session-10",
+    "day": 1,
+    "title": "Can AI Pass the US Army War College?",
+    "speaker": "Assistant Professor Kevin Boyce, Dr. John Nagl",
+    "institution": "US Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "The US Army War College oral comprehensive examination serves as the institution\u2019s capstone, measuring its senior officers\u2019 strategic thinking. In early 2026, three faculty panels applied that standard to four leading commercial artificial intelligence (AI) systems: ChatGPT, Gemini, Claude, and Grok. Prompted without core curriculum materials, all four models passed. Unlike static benchmarks, the examination\u2019s impromptu dialogue format revealed meaningful performance differences that were invisible in general-purpose evaluations, with one model performing at a statistically significant advantage. These findings challenge how the Department of War assesses commercial AI for strategic applications and point toward domain-specific, dialogue-based benchmarking as a more rigorous standard."
+  },
+  {
+    "id": "session-11",
+    "day": 1,
+    "title": "Operationalizing Integrated Research in PME: Faculty\u2013Student Collaboration in the IIFCOM Wargame",
+    "speaker": "Dr Bryan Leese1, LTC Alex Katauskas2, LtCOl Margo Shields3, CDR Sean McGaughan4",
+    "institution": "1National Defense University (JFSC), Norfolk, VA. 2US Army, Arlington, VA. 3EUCOM, Stuttgart, Germany, Germany. 4Coast Guard, Suitland, MD",
+    "track": "Wargaming & Simulation",
+    "abstract": "This study examines the Interagency Intergovernmental Functional Unified Command (IIFCOM) project as a model of faculty\u2013student collaboration within the Scholarship of Teaching and Learning (SoTL) in professional military education (PME). Framed by the MSoTL 2026 emphasis on integrated, cross-disciplinary research, the project positions students not as passive learners but as active co-researchers engaged in a shared inquiry process with faculty."
+  },
+  {
+    "id": "session-12",
+    "day": 1,
+    "title": "Scaffolding Critical GenAI Literacy for an AI-First Force: A Learning Engineering Case Study in Distance Professional Military Education",
+    "speaker": "Dr. Robert Nyland",
+    "institution": "Air University, Montgomery, AL",
+    "track": "Educational Technology",
+    "abstract": "As the Department of War seeks to become an AI-first warfighting force, professional military education (PME) must prepare geographically dispersed learners to use generative artificial intelligence (GenAI) with judgment, agency, and appropriate verification. This mixed-methods learning-engineering case study examined an ongoing, multi-iteration initiative to integrate GenAI into an asynchronous graduate research-writing course at the Air Force Global College. Across seven weekly activities, distance-learning students submitted a draft, an AI-feedback transcript, and a brief reflection on the feedback."
+  },
+  {
+    "id": "session-13",
+    "day": 1,
+    "title": "Curriculum Adaptability and Hardiness: Proposing a Complementary Model",
+    "speaker": "Dr. Lisa Marie Kerr1, Dr. Stephanie K. Erwin2",
+    "institution": "1US Naval War College, Newport, RI. 2US Air Command and Staff College, Montgomery, AL",
+    "track": "Educational Technology",
+    "abstract": "How might PME institutions address the age-old tension between Curriculum Hardiness and Curriculum Adaptability? Drawing upon a comprehensive review of PME literature, the authors employ a systemic-theoretical approach to analyze recent defense mandates, and ongoing applied research into faculty dynamics and institutional culture associated with these tensions. Results from synthesizing the associated multidisciplinary strands and emphasizing faculty composition, learner-centered developmental approaches, and system-level design principles, indicate that PME can cultivate institutional hardiness while also enabling the instructional agility required to prepare future military leaders for dynamic and uncertain operation environments. During this session we will discuss how we may reframe the perceived administrative gridlock of PME into a manageable engineered tension that begets the best of both hardiness and adaptability. By exploring the bureaucratic vise in which faculty and institutional leadership often find themselves, we offer strategic recommendations for creating curriculum frameworks that are both resilient and responsive by shifting the focus from the syllabus to the system and employing a Gyroscope Model and Unified Architecture. The resulting conceptual framework and literature synthesis are grounded in the intersection of adult learning theory, organizational systems, and contemporary strategic defense guidance. We look forward to presenting our findings and recommendations, as well as hearing perspectives from our colleagues attending the session."
+  },
+  {
+    "id": "session-14",
+    "day": 1,
+    "title": "Problem-Based Learning as a Vehicle for Leader Capacity Development in Professional Military Education",
+    "speaker": "Prof. Scott Smith, Dr. Lisa Kerr",
+    "institution": "U.S. Naval War College, Newport, RI",
+    "track": "Faculty Development",
+    "abstract": "Professional Military Education (PME) is charged with preparing experienced officers to navigate increasingly complex, ambiguous, and rapidly changing environments. Traditional\u00a0educational approaches such as lectures and seminar discussions may provide knowledge and frameworks without creating sufficient opportunities for learners to recognize, test, and expand their leader competencies, and capacities, needed to thrive in\u00a0contemporary national security environments. This panel explores problem-based learning (PBL) as a developmental process through which students experience learning, develop\u00a0greater self-awareness, and recognize changes in their capacity to approach complex problems."
+  },
+  {
+    "id": "session-15",
+    "day": 1,
+    "title": "From Innovation to Evidence: Assessing Faculty AI Teaching Mini Grants",
+    "speaker": "Dr. Miriam Bergue Alves, Dr. Dennis Lester",
+    "institution": "Naval Postgraduate School, Monterey, CA",
+    "track": "Educational Technology",
+    "abstract": "This in-progress study examines a Faculty Artificial Intelligence (AI) Teaching Innovation Mini Grant program designed to support evidence-informed integration of AI into graduate military education. The program funded five faculty projects that embed AI into authentic learning activities across mathematics, defense analysis and organizational sciences. The initiative emphasizes instructional designs that use AI to strengthen analysis, evaluation, and decision-making, and it is not meant to automate student work. We posed three research questions based on the emerging results from the five mini grant projects: (1) How are faculty incorporating AI into course design and learning activities? (2) What instructional approaches promote effective and responsible human-AI interaction? (3) What transferable practices emerge across academic disciplines? The study\u2019s data sources are the project proposals, instructional artifacts, faculty reflections, student work, surveys, and end-of-project reports. Because implementation is ongoing, findings presented are preliminary. The projects are scheduled to be completed by the end of March 2027. Early themes indicate that faculty are positioning AI as a structured educational technology that supports verification, simulation, inquiry, and reflective analysis. Funded projects include human-AI teaming in information operations, AI-assisted modeling and validation in partial differential equations, AI-supported leadership decision analysis, interactive case simulations using AI role agents, and Socratic AI tutoring for ethical reasoning. These projects share a common emphasis on accountability, evaluation of AI outputs, and development of professional judgment. Our study contributes to assessing AI-enabled instructional innovation and tries to identify scalable practices for integrating AI into graduate military education while preserving student agency and disciplinary rigor."
+  },
+  {
+    "id": "session-16",
+    "day": 1,
+    "title": "Participant-Centered by Design: Research, Case Studies, and a Session You'll Experience, Not Just Hear",
+    "speaker": "Dr. Sara Davis",
+    "institution": "The Bob Pike Group, Chaska, MN",
+    "track": "Educational Technology",
+    "abstract": "Military instructors are increasingly asked to build learners who think critically and adapt in real time, yet many professional military education classrooms remain lecture-driven, a model cognitive science increasingly shows is misaligned with how the brain retains and transfers knowledge under pressure. This session asks what happens when PME intentionally applies brain-based, participant-centered instructional design instead of lecture, and whether that shift can be demonstrated in practice rather than only argued in principle."
+  },
+  {
+    "id": "session-17",
+    "day": 1,
+    "title": "The Flourishing Officer: Aristotle, Clausewitz, and the Role of Theory in Developing Critical Thinking in Military Leaders",
+    "speaker": "Dr. Magdalena Bogacz",
+    "institution": "Space Force War College, Washington, D.C.",
+    "track": "Educational Technology",
+    "abstract": "PME institutions globally list critical thinking as their most important learning outcome, and then systematically undermine the conditions under which critical thinking actually develops. This failure is not accidental but philosophical: it follows from a misunderstanding of what critical thinking is and where it comes from. This presentation makes the case that teaching theory is indispensable to developing skilled and mindful military leaders by making explicit the connection between studying theory and developing critical thinking. In doing so, it addresses the following research question: What is the relationship between teaching and studying theory and the development of critical thinking skills in military leaders within professional military education programs? The presentation's central argument is this: deep theoretical engagement, not practical application alone, is the most reliable method for cultivating genuine critical thinking in military leaders. The argument proceeds through conceptual and textual analysis rather than empirical study. Drawing on the Presocratics, Plato's Socratic dialogues, and Aristotle's Nicomachean Ethics, the presentation traces critical thinking to its philosophical roots in aporia, self-examination, and the classical distinction between bios the\u014dr\u0113tikos and bios praktikos. It then turns to Clausewitz, whose treatment of theory in On War as an aid to judgment rather than a prescriptive doctrine offers a working model of critical analysis directly applicable to the military mind. Together, these traditions show that practical wisdom (phronesis) is not produced by experience alone but requires the theoretical formation that precedes and grounds sound judgment under uncertainty. If my argument is successful, it will also show the importance of having military officers, rather than merely academic citizens, philosophizing about war theory concepts. If military officers do not philosophize about war, we leave the language used to have these conversations completely dictated from outside of the military itself."
+  },
+  {
+    "id": "session-18",
+    "day": 1,
+    "title": "BRIDGING THE MODALITY GAP IN SENIOR MILITARY EDUCATION",
+    "speaker": "Assistant Professor Christian Cook",
+    "institution": "U.S. Army War College, Carlisle, PA",
+    "track": "Wargaming & Simulation",
+    "abstract": "The U.S. Army War College continues to innovate by breaking down the traditional barriers between resident and distance learning in senior military education. In the past, only in-residence students received valuable special programs, leaving roughly 85% of National Guard and Reserve students without these experiences and critical decision-making skills. To bridge this gap, the Army War College evolved the National Security Simulation Exercise of Competition, Crisis, and Conflict (NSEC3) into a groundbreaking multimodal course. By offering this high-level simulation to the entire force, the Army War College ensures that all future leaders, regardless of their location, possess the advanced strategic thinking skills required for modern warfare."
+  },
+  {
+    "id": "session-19",
+    "day": 1,
+    "title": "Bridging Theoretical Principles and Fleet Operations: Enhancing Conceptual Mastery through Symptom Recognition and Diagnostic Communication",
+    "speaker": "Dr. Angel Rodriguez",
+    "institution": "United States Naval Academy, Annapolis, MD",
+    "track": "Educational Technology",
+    "abstract": "The United States Naval Academy (USNA) is the nation\u2019s premiere undergraduate college for preparing junior officers to commission in the Navy and the Marine Corps. A distinctive hallmark of the academic program is a core curriculum (\u201cthe core\u201d) that provides every midshipman with a solid foundation to meet key, cross-cutting learning outcomes such as being fluent in science and engineering, generating technical solutions and communicating effectively. The core contains a substantial focus on STEM concepts and skills to meet the needs of the Fleet; as a consequence, every USNA diploma is designated as a Bachelor of Science degree regardless of major. This multi-course, multi-year STEM experience provides an opportunity to build a deliberate spiral approach into instruction, a curriculum design principle developed by Jerome Bruner (1960). This presentation will describe an emerging SoTL project to document on-going efforts within a variety of core courses (cybersecurity, chemistry, electrical engineering, and mechanical engineering) that address the core learning outcomes listed above through learning experiences that require students to apply authentic STEM practices such as arguing from evidence, symptom recognition, root-cause analysis, and evidence-based technical communication. These examples of the alignment of classroom experiences with real-world contexts contributes to the preparation for warfighters in ways that support operational readiness and maritime safety."
+  },
+  {
+    "id": "session-20",
+    "day": 1,
+    "title": "Assistant Professor Manori Perera",
+    "speaker": "USNA, Annapolis, MD",
+    "institution": "",
+    "track": "Educational Technology",
+    "abstract": "As artificial intelligence reshapes higher education, the United States Naval Academy (USNA) recognizes its responsibility to equip midshipmen with the skills to engage responsibly with generative and agentic AI. To establish clear \u201cground rules\u201d for classroom AI use, USNA developed the AI Usage Framework. However, bridging the gap between institutional policy and daily academic practice requires accessible and scalable tools."
+  },
+  {
+    "id": "session-21",
+    "day": 1,
+    "title": "Examining Identity Clarity, Stress, and Burnout During the Military-to-Civilian Transition: Implications for Military Education",
+    "speaker": "MSgt James Ralstin1, Dr. Yvette Rose1, Dr. David Earnest2",
+    "institution": "1MCTOG, Twentynine Palms, CA. 2Austin Peay State University, Clarksville, TN",
+    "track": "Educational Technology",
+    "abstract": "Transitioning from military service to civilian life can require veterans to adapt to changes in professional roles, organizational environments, social relationships, routines, and sense of identity. This study investigates whether self-concept clarity, or the extent to which individuals maintain a clear and coherent understanding of themselves, may help explain differences in transition-related stress and burnout among recently separated veterans."
+  },
+  {
+    "id": "session-22",
+    "day": 1,
+    "title": "Educating about the Defense Enterprise at senior PME",
+    "speaker": "Mr. Bob Bradford",
+    "institution": "US Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "Graduates of senior professional military education often assume important roles within the defense enterprise. \u00a0In addition to understanding how to employ military forces, graduates must understand how to design, organize, man, train, and equip those forces. \u00a0Senior PME students come with a wide range of knowledge in this area, from extensive experience with building forces, to only experience employing them."
+  },
+  {
+    "id": "session-23",
+    "day": 1,
+    "title": "Can Faculty Pick Winners? Separating Skill from Luck in Six Years of PME Writing-Award Nominations",
+    "speaker": "COL Clayton Manning",
+    "institution": "U.S Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "Faculty who nominate student work for awards are presumed to exercise a discerning eye, yet the predictive validity of that judgment is rarely tested. This completed study asks three questions of the U.S. Army War College (USAWC) student writing-award program: What is the base rate at which nominated papers win, and how does it move across cohorts? Do faculty advisors differ in nominee-to-winner conversion beyond what chance would generate? And after empirical-Bayes regularization, how much true between-advisor variation remains? A complete six-year record of the USAWC awards program (academic years 2021\u20132026: 413 nominations, 177 winners, 166 advisors) was assembled through record linkage across incompatible administrative sources. The base rate was estimated with Wilson intervals, and advisor homogeneity was tested with a chi-square dispersion test. Observed versus chance variance was then decomposed, and a Beta-Binomial empirical-Bayes model was fit. Nominees won 42.9% of the time overall, with conversion declining across cohorts as nominee pools grew against roughly fixed award slots. Advisor win rates ranged from 0% to 100%, yet were statistically indistinguishable from a single common rate (\u03c7\u00b2(22) = 25.38, p = .28); observed variance exceeded chance expectation only modestly (ratio 1.26); and shrinkage weights imply that even the most prolific advisor's observed record is mostly noise (reliability at most .24). The apparent \"talent scouts\" are small-sample artifacts."
+  },
+  {
+    "id": "session-24",
+    "day": 1,
+    "title": "Conducting Staff Rides for Twenty-First-Century Warfare: Pedagogy, Planning, and Practical Application",
+    "speaker": "Dr. Paul Gelpi, Dr. Bradford Wineman",
+    "institution": "Marine Corps University, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "This presentation argues that the battlefield staff rides is not an anachronistic methodology but is still extremely valuable learning laboratory for the 21st century warfighter. \u00a0Not only can they be utilized to explore the themes of the current highly technological and complex operational environment, but they can also be crafted to address the various priorities of the diverse capabilities and priorities of the Joint Force. \u00a0This presentation examines battlefield and campaign staff rides as rigorous, adaptable learning experiences for twenty-first-century professional military and civilian national security education. Moving beyond historical narration or antiquarian battle study, the session shows how staff rides enable participants to explore enduring and emerging themes in combined arms and maneuver warfare through decision-making at tactical, operational, and strategic levels. It also demonstrates how facilitators can connect terrain analysis, historical case studies, and contemporary operational questions to the learning objectives of a unit, institution, or professional audience. \u00a0Attendees will examine the full lifecycle of an effective staff ride: defining learning objectives, preparing with discipline, facilitating field execution, and assessing outcomes through structured reflection. The session will emphasize how historical battlefields and terrain walks can illuminate contemporary challenges for twenty-first-century warfighters and decision-makers, including information operations, joint force integration, contested logistics, operational planning, and maneuver in complex security environments."
+  },
+  {
+    "id": "session-25",
+    "day": 1,
+    "title": "Military Learner Perceptions of AI-Generated Learning Materials: Implications for Professional Military Education",
+    "speaker": "Dr. Siyi Gao, Dr. Ra'ed Qasem",
+    "institution": "Defense Language Institute Foreign Language Center, Monterey, CA",
+    "track": "Educational Technology",
+    "abstract": "Generative artificial intelligence (AI) is increasingly integrated into curriculum development and instructional material design, creating new opportunities to support language learning. However, the educational effectiveness of AI-generated materials depends not only on their instructional quality but also on learners\u2019 willingness to trust and use them (Tlili et al., 2023). Research on technology acceptance and trust in AI suggests that perceptions of credibility, trustworthiness, accuracy, and usefulness influence learners\u2019 adoption of educational technologies and willingness to rely on AI-generated resources (Kasneci et al., 2023). This study examines how military language learners evaluate AI-generated instructional materials and how those evaluations shape their use of such resources for language learning. This study is situated within the pilot implementation of a Background Knowledge Enhancement Curriculum in an intensive military language program. The curriculum incorporates AI-assisted workflows to develop multimodal instructional materials addressing operationally and culturally relevant topics. The study is guided by three research questions: (1) How do military language learners perceive the trustworthiness, credibility, instructional usefulness, and overall acceptance of AI-generated instructional materials? (2) How do these perceptions influence learners\u2019 use of AI-generated instructional materials for language learning? (3) What factors promote or discourage learners\u2019 trust in and use of AI-generated materials?"
+  },
+  {
+    "id": "session-26",
+    "day": 1,
+    "title": "Second Language Identity Challenges During Immersion Study Abroad",
+    "speaker": "Dr. Jeffrey Watson",
+    "institution": "U.S. Military Academy, West Point, NY",
+    "track": "Research Methods",
+    "abstract": "Over the last 2-3 decades, SLA researchers have explored second language (L2) identity formation during study abroad (SA) as students abroad navigate the \u201csymbolically mediated lifeworld of another culture.\u201d (Pavlenko & Lantolf, 2001: 155). According to Benson et al. (2012), in L2 immersion environments, student identities include (1) their \u201cinner sense of who they are, (2) the identities they project to others, (3) the identities that are recognized or ascribed to them by others, (4) imagined identities, and (5) socially-validated identity categories.\u201d (176) Kinginger (2009) also points out that L2 identity abroad involves \u201cwhat kinds of people learners take themselves to be and to become, and how they are welcomed and assisted, or not, in the social settings where they are involved\u201d (155). To build on this foundation, this study examined data from 100+ study abroad participants at West Point. Upon their return from abroad, students participated in three data-gathering events, developed using the above framework: 1) a written reflection activity to identify people in their L2 communities abroad that either helped or hindered their interactions during SA, 2) an essay prompt to reflect on a transformative event during their time abroad, and 3) a 41-question survey that elicited Likert-scale and open-ended data on L2 identity issues in the following four areas:"
+  },
+  {
+    "id": "session-27",
+    "day": 1,
+    "title": "From Political Warfare to Cognitive Readiness: The Case for Cognitive Security in PME",
+    "speaker": "Lt Col Melissa McLain, Dr. Lauren Scharff",
+    "institution": "U.S. Air Force Academy, Colorado Springs, CO",
+    "track": "Educational Technology",
+    "abstract": "This research investigated if a Cognitive Security (CogSec) intervention improved cadets\u2019 information discernment in an operational scenario characterized by team communication, time-sensitive tasks, and high-stakes decision making. \u00a0Each semester approximately 480 cadets complete a simulated wargame at USAFA Multi-Domain Lab (MDL) to test out their proposed operational Lines of Effort developed in the earlier modules of the course. Our research team had the opportunity to integrate information supplements (IS) into the existing wargame to assess cadets\u2019s information discernment. The IS was delivered electronically and contained both accurate and inaccurate information, requiring the cadets to discern what to do (or not do) with the information."
+  },
+  {
+    "id": "session-28",
+    "day": 1,
+    "title": "Dr. Erica Haglund",
+    "speaker": "Dignitas Technologies, Orlando, FL",
+    "institution": "",
+    "track": "Educational Technology",
+    "abstract": "The Department of Defense struggles to keep training content relevant, effective, and current. Maintaining and updating instructional objectives, sequencing, and Learning Management System (LMS) deployment is laborintensive, limiting the DoD\u2019s ability to respond quickly to operational changes and emerging technical information. This inefficiency drives high annual costs in manpower and finances, slows the delivery of critical skills, and hampers readiness cycles."
+  },
+  {
+    "id": "session-29",
+    "day": 1,
+    "title": "Ms. E-Lu Chen, Mr. Matthew Brand",
+    "speaker": "AU/AFGC, Montgomery, AL",
+    "institution": "",
+    "track": "Educational Technology",
+    "abstract": "This presentation proposes an assessment strategy for evaluating whether meaningful learning can occur in a synchronous online environment within the ACSC distance-learning program. The Joint Staff's J7 directorate identified a potential limitation of distance PME: compared with in-residence PME, online programs provide fewer opportunities for students to engage in synchronous learning. Despite this limitation, officers who complete the distance ACSC coursework still receive full credit for JPME Phase I certification. This increases the importance of validating synchronous learning activities within a distance program. Therefore, the Air Force Global College ACSC PME program was directed to develop an assessment plan that includes synchronous learning."
+  },
+  {
+    "id": "session-30",
+    "day": 1,
+    "title": "Professional Military Education and the Virtual Learning Environment",
+    "speaker": "Dr Matthew Powell, Dr Dafydd Townley",
+    "institution": "University of Portsmouth, Portsmouth, Hampshire, United Kingdom",
+    "track": "Educational Technology",
+    "abstract": "The use of virtual and distance learning methods is not a new phenomenon in higher education and have proven to effective in engaging a larger cohort of students for institutions and providing additional streams of income at much reduced cost compared with traditionally taught courses. They also provide several advantages for both the learner and the instructor including the ability to revisit elements of the course, the ability for students to engage with the material at a time and a place of their choosing and providing larger groups to facilitate discussion and wider learning. Distance learning is something that is beginning to be embraced by military colleges and academies that are concerned with professional military education. It should be the case that the embracing of new educational technologies should provide military educators, both academic and military, with better ways of providing education provision. The reality is, from the initial uses of distance learning technologies such as virtual learning environments, the benefits are not being fully utilised as the advantages that should come with distance learning are more challenging to achieve than in a traditional higher education environment. One of the largest challenges, at least within the professional military education system in the United Kingdom, is that education is undertaken in a time poor environment where education is not prioritised. Virtual learning is often done alongside other activities outside of traditional working hours. This means that the advantages of asynchronous learning are largely lost. This paper will use the experience of the presenters of designing and delivering a virtual distance learning course as part of a wider residential officer training course to provide insights into the challenges and benefits of utilising such a platform for professional military education."
+  },
+  {
+    "id": "session-31",
+    "day": 1,
+    "title": "Dr. Serguei Podoprigora",
+    "speaker": "DLIFLC, Monterey, CA",
+    "institution": "",
+    "track": "Educational Technology",
+    "abstract": "The presenter proposes and thoroughly describes a program of regular, preplanned cultural workshops and seminars for faculty members in the language departments of military institutions. While relevant discoveries and alternative academic references are made and popularized each year, LREC teaching programs tend to follow cultural narratives and approaches established in previous centuries. At a time when periodic professional recertifications are mandatory, a systematic, structured, and multifaceted program of cultural education for faculty appears to be lacking. Importantly, every language instructor in a U.S. military training institution must be not only an expert in the culture associated with the target language (TL) but also an effective educator of students from diverse cultural backgrounds. In the latter role, relevant cultural knowledge plays a pivotal role in creating schema-related connections, fostering a positive learning environment, and enhancing andragogy-related motivation. Drawing on academic literature addressing the concept of culture, the presenter identifies five areas that should be periodically updated and supplemented with newly emerging information: (1) historical and religious traditions and trends; (2) socio-behavioral patterns; (3) artistic and cultural expression; (4) internet-related phenomena, including youth subcultures, sociolects, and commonly used social media platforms; and (5) newly introduced English-derived concepts and terminology within the target-language culture. These five areas may be aligned with specific FLO-related topics and distinctive national cultural characteristics. For example, if an instructor is teaching advanced Russian to American students of recent Spanish or Chinese heritage, that instructor should possess sufficient cultural knowledge of the topics being studied, including not only their Russian manifestations but also their counterparts in Spanish and Chinese cultural contexts. This may equally encompass topics such as New Year celebrations, greetings in business settings, literary styles, or religious values. The presenter supports these conclusions with numerous evidence-based examples."
+  },
+  {
+    "id": "session-32",
+    "day": 1,
+    "title": "Leveraging A Distinguished Visiting Professor Position for Faculty Development",
+    "speaker": "Dr. Joseph Urban, Dr. Melonie Teichert, Dr. Shirley Lin",
+    "institution": "US Naval Academy, Annapolis, MD",
+    "track": "Faculty Development",
+    "abstract": "The US Naval Academy chemistry department supports both a two-semester general chemistry sequence as part of the academic core as well as an American Chemical Society-certified major that graduates approximately 30 midshipmen each year. The department consists of over 40 faculty, both military and civilian, the majority of whom specialize in analytical chemistry, biochemistry, inorganic chemistry, organic chemistry, or physical chemistry. Starting in 2011, the chemistry department has utilized the Kinnear Distinguished Visiting Professor position to bring three senior faculty with expertise in chemistry educational research (CER) and the scholarship of teaching and learning (SoTL) to USNA for 2-3-year-long appointments. Each Kinnear distinguished visiting professor has grown the capacity to perform CER and SoTL within the department by fostering collaboration on their research projects with existing faculty. Fifteen years later, this type of faculty development has had lasting positive impacts on teaching and scholarship, a model that other departments and institutions may wish to consider for their distinguished visiting professor programs."
+  },
+  {
+    "id": "session-33",
+    "day": 1,
+    "title": "Asking Better Questions: Toward a Framework for Strategic Leader Data Literacy",
+    "speaker": "PROF Chad Jagmin",
+    "institution": "U.S. Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "Data literacy has become a critical competency within military and governmental organizations, yet the construct remains poorly defined for senior leaders whose primary role is to frame, interrogate, and act upon analysis rather than conduct it themselves. Existing assessment frameworks focus largely on students, educators, and technical practitioners, leaving important questions about how strategic leaders engage in data-driven inquiry."
+  },
+  {
+    "id": "session-34",
+    "day": 1,
+    "title": "From Achievement to Proficiency: Leveraging Assessment Data to Improve Learning Outcomes and Operational Language Readiness",
+    "speaker": "Dr. Siyi Gao, Dr. Ra'ed Qasem",
+    "institution": "Defense Language Institute Foreign Language Center, Monterey, CA",
+    "track": "Educational Technology",
+    "abstract": "Professional military language programs must prepare learners not only to achieve course objectives but also to attain operationally relevant language proficiency. Although assessment data are routinely used to measure achievement, their potential to inform instructional decision-making and accelerate proficiency development remains underexplored in military language education. This study examines the effectiveness of an assessment-informed instructional framework using End-of-Semester Proficiency Test 2 results to identify learning gaps, guide instructional adjustments, and better align classroom performance with Defense Language Proficiency Test (DLPT) outcomes."
+  },
+  {
+    "id": "session-35",
+    "day": 1,
+    "title": "MSgt Beau Curtis",
+    "speaker": "2d MLG, Camp Lejeune, NC",
+    "institution": "",
+    "track": "Faculty Development",
+    "abstract": "Marine Corps professional military education (PME) places significant emphasis on leadership development, counseling, mentorship, and individual performance. This project asks whether research from industrial and organizational psychology (IOP) can strengthen enlisted PME by providing research-based, actionable methods for developing Marines as leaders. It examines where IOP concepts align with existing Marine Corps leadership expectations and where they could address gaps in current leader-development education. The project uses a comparative review of Marine Corps doctrine, PME materials, and research from industrial and organizational psychology. Marine Corps approaches to counseling, mentorship, motivation, and leadership development are compared with IOP concepts including realistic job previews, job characteristics theory, behavioral modeling, action planning, role playing, motivation, and change management. The analysis considers these concepts across three stages of enlisted development: junior Marines, noncommissioned officers, and staff noncommissioned officers."
+  },
+  {
+    "id": "session-36",
+    "day": 1,
+    "title": "Beyond Question Generation: Creating Effective Assessment Experiences with Generative AI",
+    "speaker": "Mrs. Daphne ChingYu Tseng",
+    "institution": "Air University AFGC, Montgomery, AL",
+    "track": "Educational Technology",
+    "abstract": "Generative artificial intelligence (AI) can rapidly produce assessment content, creating opportunities for educators to develop question banks at scale. However, generating questions is only one part of creating an effective assessment experience. AI-assisted assessment development raises practical questions about prompt design, alignment and cognitive level, distractor quality, learner feedback, and the efficient validation of large AI-generated question banks."
+  },
+  {
+    "id": "session-37",
+    "day": 1,
+    "title": "Major Ben Miles",
+    "speaker": "O'Brien Notre Dame International Security Center, South Bend, IN",
+    "institution": "",
+    "track": "Faculty Development",
+    "abstract": "Military fellows at civilian academic institutions are embedded amongst renowned faculty in topics of policymaking, security strategy, military history, and more\u2026 for one year or less. Services currently have multi-year pathways and associated end-states for PhD. - producing programs; however, the short-fused fellow is underdeveloped. With limited time and lack of research effort continuity, fellowships are inefficient to produce intellectual capital that outweighs the collective expertise that sits in reserve within their hosting institutions. The asymmetric advantage of military fellows at universities does not lie in individual accomplishment or advancement \u2013 it should be measured by its efficacy to integrate joint and service-level questions of policy and strategy with the centuries of expertise resident to the nation\u2019s prominent universities. This presentation will provide context for recent academic-policymaker divides and their causal factors, make a case for heightened relevancy of non-DoW humanities and social science research in current defense strategy, and argue why military fellows at civilian universities are well equipped and positioned to connect the scholar-practitioners and pressing national defense problem sets."
+  },
+  {
+    "id": "session-38",
+    "day": 1,
+    "title": "Teaching the Human Domain in Joint All-Domain Operations: Evidence-Based Strategies for Developing Irregular Warfare Competence",
+    "speaker": "Dr. Claire Metelits",
+    "institution": "Marine Corps University, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "Mastery of irregular warfare (IW) remains essential in an era of strategic competition. As the Department of Defense (2020) emphasized, IW spans all operational domains and hinges on legitimacy, influence, and human behavior. The human domain is not simply one component of modern conflict; it is the place where strategic success or failure occurs. However, as professional military education (PME) shifts focus toward Joint All-Domain Operations (JADO), technical capabilities risk overshadowing these fundamental human factors. This presentation addresses how PME can effectively balance JADO integration with human-domain mastery. It highlights practical teaching strategies that help future leaders evaluate socio-cultural dynamics, cognitive factors, and influence alongside technical warfighting concepts."
+  },
+  {
+    "id": "session-39",
+    "day": 1,
+    "title": "From Performance to Assessment: A Design Framework",
+    "speaker": "Dr Stephanie Hostetter, Mr. Jonathan French",
+    "institution": "Air Force Global College, Montgomery, AL",
+    "track": "Educational Technology",
+    "abstract": "The farther learning experiences are removed from the operational environments in which knowledge will be applied, the more intentionally educators must design opportunities for authentic performance. But what makes an assessment authentic? Authentic assessment requires more than realistic contexts or products. It must also reflect the competencies involved in performing professional tasks. Integrating these competencies into valid, coherent assessments, however, remains a significant challenge for Professional Military Education (PME) institutions implementing Outcomes-Based Military Education (OBME). This work-in-progress presents the Performance-to-Assessment Design Framework (PADF), a systematic framework for authentic assessment design that supports faculty and instructional designers in PME. Informed by scholarship on authentic assessment, outcomes-based education, and instructional design, the PADF provides a practical framework for authentic assessment design. Rather than beginning with assessment formats or products, it first analyzes authentic professional performance and identifies the competencies required for successful task performance. It then guides educators through the process of selecting assessment approaches that elicit those competencies, and developing valid, coherent evaluation criteria. The PADF is particularly valuable in PME, where authentic professional performance often cannot be directly replicated and educators must instead translate it into assessable learning experiences. By providing a systematic process, the PADF bridges the gap between authentic assessment theory and curriculum design practice. This approach supports more intentional alignment among professional performance, competencies, and assessment across PME."
+  },
+  {
+    "id": "session-40",
+    "day": 1,
+    "title": "What Are We Assuming Students Know? Development of a Foundational Knowledge Inventory Assessment for JPME",
+    "speaker": "Captain Luke Gilman, Mr. Dan Canfield",
+    "institution": "Marine Corps University, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "Professional military education (PME) requires officers to analyze complex operational problems, evaluate competing courses of action, and exercise judgment under uncertainty. These tasks depend partly on foundational knowledge that curricula may assume students already possess. This work-in-progress examines the development and initial refinement of a diagnostic knowledge inventory for incoming Command and Staff College students at Marine Corps University. The project addresses three questions: What foundational knowledge should support intermediate-level education for joint all-domain operations? How can that knowledge be translated into a practical diagnostic assessment? How can pilot evidence inform instrument refinement and instructional decisions? The presentation covers content selection, organization of the assessment into five domains, and iterative revisions to question wording, assessment length, and scoring. The resulting 100-item inventory covers the PACOM operational environment, geography and key maritime terrain, joint warfighting, Chinese military capabilities, and U.S. and coalition capabilities. Students completed a paper assessment, self-graded against a provided key, and submitted item-level results electronically. The pilot yielded 156 submissions, including 153 complete assessments."
+  },
+  {
+    "id": "session-41",
+    "day": 1,
+    "title": "The AI Simulation Prep Coach: Using AI to Augment Classroom Discussion",
+    "speaker": "Dr. Amanda Rosen",
+    "institution": "US Naval War College, Newport, RI",
+    "track": "Educational Technology",
+    "abstract": "Seminar activities where students represent agencies, countries, or individuals depend on strong preparation that due to busy schedules and AI shortcuts is not guaranteed. This session demonstrates an adaptable AI \u201cprep coach\u201d that helps students prepare for role-plays, simulations, and wargames by asking questions, probing student reasoning, and producing a transcript instructors can review. It is an adaptable prompt that can be used in any LLM, grounded in specific course concepts, theories, themes, or cases, and ensure a minimal level of role-based preparation in advance of in-class discussion."
+  },
+  {
+    "id": "session-42",
+    "day": 1,
+    "title": "Can PME Adapt Fast Enough? Building a More Responsive Education Enterprise",
+    "speaker": "Dr. Yolanda Williams",
+    "institution": "Air University, Maxwell AFB, Montgomery, AL",
+    "track": "Educational Technology",
+    "abstract": "The character of warfare, emerging technologies, and evolving warfighter requirements are changing faster than traditional education systems were designed to respond. For professional military education (PME), the challenge is not simply determining what to teach, but whether our institutions can recognize emerging requirements, translate them into meaningful educational outcomes, and adapt quickly enough to remain relevant."
+  },
+  {
+    "id": "session-43",
+    "day": 1,
+    "title": "Exposing the Role of Unlearning in the Development of Senior Leaders",
+    "speaker": "Dr. Adelle Bish",
+    "institution": "U.S. Army War College, Carlisle, PA",
+    "track": "Faculty Development",
+    "abstract": "Advancement to senior leadership represents a significant personal and career transition. We are asking seasoned operators to pivot to broader, more complex, strategic positions. Senior-level PME programs support this process by providing relevant content and learning experiences to build required knowledge and skills. However, from a learning theory perspective, we must also be mindful of the need for unlearning as part of this transition. PME does not simply require learners to acquire new knowledge, it also requires relinquishing some past knowledge, behaviors or ways of thinking that may hinder learning. This presentation highlights the role of unlearning in the development of senior leaders and the ways in which viewing PME from an unlearning perspective may positively impact program design and learning environments."
+  },
+  {
+    "id": "session-44",
+    "day": 1,
+    "title": "Understanding Military Pedagogy: Exploring Instructors\u2019 Conceptions through Group Concept Mapping",
+    "speaker": "Associate Professor Marte S\u00f8ve Syverud, Senior Advisor Unn Gyda N\u00e6ss",
+    "institution": "Norwegian Defence University College, Oslo, Norway",
+    "track": "Educational Technology",
+    "abstract": "A strong academic environment for military pedagogy and didactics is essential for enhancement of quality in professional military education. It is also crucial that the Norwegian Armed Forces develop relevant and robust competence across different levels. This is supported by the Norwegian Agency for Quality Assurance in Education, which emphasizes that the Norwegian Armed Forces should strengthen pedagogical and didactic competence at the Norwegian Defence University College (NDUC).\u00a0Therefore, a professional forum for military pedagogy and didactics was established, aiming to strengthen quality and relevance of professional military education. The forum facilitates research, development work, dissemination, and educational activities across NDUC, in accordance with NDUC\u2019s strategy of providing future-oriented professional military education of high international quality."
+  },
+  {
+    "id": "session-45",
+    "day": 1,
+    "title": "Integrating AI-Assisted Modeling, Visualization, and Critical Evaluation to Advance Student Achievement in Partial Differential Equations",
+    "speaker": "Dr. Hong Zhou",
+    "institution": "Naval Postgraduate School, Monterey, CA",
+    "track": "Educational Technology",
+    "abstract": "This Scholarship of Teaching and Learning project examines how AI-assisted modeling and visualization can enhance student learning in Partial Differential Equations (PDEs). The project addresses three research questions: (1) Can AI-assisted modeling and visualization help students connect analytical PDE solutions to physical phenomena? (2) Does a structured \u201cAudit and Verify\u201d workflow strengthen students\u2019 mathematical reasoning and critical evaluation of AI-generated solutions? (3) Does this approach improve student achievement in PDEs?"
+  },
+  {
+    "id": "session-46",
+    "day": 1,
+    "title": "Attitudes and motivations of Mexican cadets towards EFL",
+    "speaker": "MAJOR Oscar Villar",
+    "institution": "United States Military Academy, West Point, NY",
+    "track": "Educational Technology",
+    "abstract": "This research study was conducted to determine what types of motivations and attitudes toward learning English prevailed among first-year cadets at the Heroic Military College (Mexico) during the 2017-2018 academic year. This inquiry emerged after it was observed that, within a group whose highest score on the placement test was 21 out of 100, these factors appeared notably unfavorable. Did first-year HMC cadets perceive English as having little practical value within their professional environment and, as a result, display negative attitudes toward the English-speaking world and predominantly instrumental motivation?"
+  },
+  {
+    "id": "session-47",
+    "day": 1,
+    "title": "Process: Using Metacognition to Improve Student Learning in the Age of Gen-AI",
+    "speaker": "Dr. Trela Anderson",
+    "institution": "National Defense University, Washington, DC",
+    "track": "Educational Technology",
+    "abstract": "This session will explore how metacognition, \u201cthe ability of knowing what one knows and does not know\u201d might play a role in improving students\u2019 engagement in their own critical thinking, writing, and learning processes, particularly now when students might feel tempted to over depend on GEN AI tools to sharpen these skills. First, it will describe how writing faculty at National Defense University employed metacognitive exercises during the first week of the academic year to pre-engage students\u2019 thinking and attitudes towards academic writing. Second, it will detail how writing faculty employ the five stages of the writing process during individual consultations to work interactively with students as they progress step by step in thinking critically about their topic and translating their ideas to paper. Third, this session will discuss how the suspected misuse of GEN AI tools among students is changing how instructors assess student learning."
+  },
+  {
+    "id": "session-48",
+    "day": 1,
+    "title": "Classified Research and Peer Learning in Military Education",
+    "speaker": "Dr. Nathan Packard",
+    "institution": "Marine Corps University, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "This presentation explores the role of classified research and peer learning in Command and Staff College's Joint All-Domain Operations Advanced Studies Program. The program, launched in Academic Year 2025-2026, consisted of (240) hours of Top Secret curriculum. Two of the more effective instructional methods proved to be classified research and peer learning. This presentation discusses how the JADO program leveraged both to achieve results in the classroom."
+  },
+  {
+    "id": "session-49",
+    "day": 1,
+    "title": "The Learning Intelligence Dashboard: LLM-Assisted Competency Assessment in Distance and Blended Professional Military Education",
+    "speaker": "Mr. Sean Rugge",
+    "institution": "Marine Corps University, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "Distance and blended professional military education generates large volumes of learner artifacts;\u00a0discussion posts, written assignments, and AI assisted\u00a0engagement\u00a0sessions.\u00a0Evaluating\u00a0learner\u00a0content\u00a0for cognitive quality\u00a0at scale exceeds available faculty time.\u00a0Culturally,\u00a0we\u00a0default to completion metrics\u00a0and\u00a0rubric-based\u00a0performance scores\u00a0where evaluations can vary\u00a0between instructors\u00a0and be\u00a0affected by fatigue and bias.\u00a0This work-in-progress asks three questions: (1) Can large language models\u00a0produce consistent, rubric-anchored assessments of learner cognitive performance from\u00a0learner generated\u00a0artifacts? (2) Can it do so at a cost and reliability permitting enterprise deployment across\u00a0an\u00a0education\u00a0program? (3) What do such assessments surface that completion data\u00a0or rubric based evaluation performed manually by instructors or teaching assistants\u00a0cannot?"
+  },
+  {
+    "id": "session-50",
+    "day": 1,
+    "title": "Learning Military Power: Military Education, Accreditation Standards, and Battlefield Effectiveness",
+    "speaker": "Dr. Nathan Toronto",
+    "institution": "Defense Security Cooperation University, Monterey, CA",
+    "track": "Wargaming & Simulation",
+    "abstract": "What role does military education play in battlefield effectiveness? To date, explanations of battlefield effectiveness have focused on tactical competence, democratic regime type, avoidance of coup-proofing, or the preponderance of men or materiel, but little attention has been given to the role of military education in helping militaries fight better. This paper uses original data on military schools to establish a link between military education and battlefield effectiveness (measured using both tactical outcomes and casualty efficiency) and distills aspects of military education that contribute to battlefield effectiveness. This new evidence demonstrates that having a war college correlates with improved tactical outcomes, and that having a staff college correlates with efficiency as measured by casualty ratios. Military leaders, schoolhouse directors, and policymakers should recognize that a highly-educated force is an asset, and scholars should base conceptions of military power on both material factors and softer, human capital factors. Proposed military education accreditation standards also suggest a means of enhancing the elements of military education that are most likely to result in success on the battlefield."
+  },
+  {
+    "id": "session-51",
+    "day": 1,
+    "title": "Improving Senior Service College PME on the Mobilization Enterprise",
+    "speaker": "Prof Douglas Orsi",
+    "institution": "U.S. Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "My research question began as \u201cHow to introduce the Mobilization Enterprise into the U.S. Army War College and increase student knowledge and research in this area?\u201d Mobilization of manpower and the industrial base serve as a critical area of deterrence and have taken on greater urgency due to large scale combat operations in Europe beginning in 2022. \u00a0Prior to AY2025, the U.S. Army War College Building Defense Forces course, the core curriculum survey course which focuses on the defense enterprise, did not specifically cover the topic of the mobilization enterprise. Neither was there an elective on the subject for the previous decade. The introduction of this 3-hour survey lesson on Manning and Mobilization in AY25 led to the design of a ten lesson, 33-hour Mobilization and Industrial Preparedness elective that uses multi-modal methodology. \u00a0Through this process, students are introduced to the mobilization enterprise including a historical review, key policy, and those organizations both at the federal, Department of War/Service level involved in the mobilization enterprise. Additionally, students are introduced to key elements of manufacturing from the perspective of scalability. The process used thus far includes using readings, expert guest speakers from portions of the mobilization enterprise and site visits to defense industrial base manufacturing facilities, focusing on scalability/expandability. Six students participated in the first year the elective was introduced. Twelve students participated in the second iteration of the elective. The challenge with research in this area is that students select their research topics well before the Building Defense Forces curriculum is introduced in October \u2013 November. The Academic year 2026-27 Annual Estimate of the Strategic Security Environment and its Strategic Question Research List does have a section related to mobilization and is available for the students at the beginning of the academic year."
+  },
+  {
+    "id": "session-52",
+    "day": 1,
+    "title": "To Boldly Innovate: How Instructional Designers SCAN the PME Frontier for Hidden Research Signals",
+    "speaker": "Dr. Dina Kurzweil1, Dr. Beth Marcellas1, Dr. Kim McLeod2",
+    "institution": "1Uniformed Services University of the Health Sciences, Bethesda, MD. 2Henry M. Jackson Foundation in support of the Uniformed Services University of the Health Sciences, Bethesda, MD",
+    "track": "Educational Technology",
+    "abstract": "As the Uniformed Services University of the Health Sciences (USU) advances military medical education, the Education & Technology Innovation (ETI) Support Office plays a pivotal role in integrating scholarly inquiry into the design and development of instruction. This presentation provides a practical framework that structures the ETI\u2019s \u00a0collaboration with faculty to embed research directly into the faculty support lifecycle, transforming military medical education into a rich domain for applied research."
+  },
+  {
+    "id": "session-53",
+    "day": 1,
+    "title": "Dr. Yvette Rose",
+    "speaker": "MCTOG, Twentynine Palms, CA",
+    "institution": "",
+    "track": "Educational Technology",
+    "abstract": "Global challenges, ambiguity, unprecedented and complex conflict require the United States Marine Corps (USMC) to review its educational processes. Force Design Update (FDU) 2030 addresses teaching and learning for 21st century conflict. Thirty-one Marine Corps Tactics and Operations Group (MCTOG) instructors participated in a mixed method study exploring two areas. Considering what future conflict might look like, what do Marines already know? To engage in future conflict, what do Marines need to teach and learn to be best prepared for future conflict? An online survey and focus discussion posed three research questions (RQ); 1) How is 21st century conflict defined and what do we already know? 2) What do we need to teach and learn to effectively engage in 21st century conflict? 3) How might Cognitive Scenario Games (CSG) prepare Marines to exercise cognitive agility in 21st century conflict? Results supported by literature formed an educational philosophy with three major themes: 1) 21st century education and training, 2) use of information and technology, and 3) multidisciplinary thinking and multi-domain planning. Data analysis and thematic coding formed a theoretical curriculum framework with four key elements: 1) adaptive thinking, 2) creative thinking, 3) critical thinking, and 4) futuristic objectives and outcomes. Summarized findings discuss an educational philosophy of a potential mindset for teaching and training. A theoretical curriculum framework explanation of topics Marines should consider as educative initiatives for 21st century conflict. The article addresses an educational philosophy, a theoretical curriculum framework, and findings of educative initiatives for future implementations. However, Artificial Intelligence (AI) integration for creative and critical thinking is an element of futuristic education exploration. This leads to two future exploration questions; How might AI enhance or stifle creative and critical thinking? 2) How can military education design and development stay abreast of educational changes as challenges become more complex?"
+  },
+  {
+    "id": "session-54",
+    "day": 1,
+    "title": "Trust but Verify: Testing Promise in the AI-Detection Arms Race Threatening Academia",
+    "speaker": "Dr. Sandra Leavitt, Ms. Mia Arshad",
+    "institution": "Naval Postgraduate School, Monterey, CA",
+    "track": "Educational Technology",
+    "abstract": "Generative artificial intelligence (genAI) poses risks for assessment integrity, particularly when students outsource substantive cognitive tasks that reduce opportunities for skill development (known as deskilling). These risks are heightened in professional military education (PME) institutions because conferral of credentials and degrees are used by military services to inform widescale decisions on service-member assignments and promotions to meet mission-critical requirements for national security. This study evaluates the role of genAI detection as a triage aid within a broader assessment integrity process, presenting a robust methodology for advanced academic work like theses and technical reports."
+  },
+  {
+    "id": "session-55",
+    "day": 1,
+    "title": "Cognitive Fitness for Leader Development and Warfighting Advantage",
+    "speaker": "Dr. Lisa Marie Kerr, Dr. Leigh Ann Perry, Assoc. Prof. Christopher Hauver, Lt. Col. Phil Summers",
+    "institution": "US Naval War College, Newport, RI",
+    "track": "Educational Technology",
+    "abstract": "Grounded in neuroscience and military scholarship of teaching and learning (MSOTL) research, a team of leader development faculty at the US Naval War College have woven experiential learning activities into core courses. The roles that cognitive fitness play in decision-making under pressure, and resilience among professionals in high stress occupation is well established. Understanding that the students we serve, every single one of them, are responsible for leading other leaders in volatile, uncertain, complex and ambiguous environment. The decisions our students make, amidst chaos, kinetic warfighting, and extreme international pressure impact democracy and world order. Therefore, we created a course that prepares these students to expand their leader capacities and cognitive fitness so that they remain resilient in resolve to successfully fulfill their mission. \u00a0Join us for a conversation that describes each faculty member's area of expertise and how it informs what, how, and why the learning activities were designed with deliberate intent to promote vertical development among national security professionals. Additionally, the presenters will describe lessons learned from the pilot courses delivered during the 2025-2026 academic year and explore, with you, best practices that will support you to incorporate cognitive fitness into your course design."
+  },
+  {
+    "id": "session-56",
+    "day": 1,
+    "title": "China Research Centers and Their Contribution to Military Student Learning",
+    "speaker": "Dr. Christopher Yung",
+    "institution": "Marine Corps War College, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "For the upcoming MSOTL conference I propose to present the role China Research Centers directly play in the instruction of PME students. \u00a0As an incomplete sample of the kinds of roles these centers play in PME instruction: \u00a01) faculty from these centers directly teach in these institutions; 2) faculty are part of a Community of interest in the China field which can provide additional direct instruction on a specialized topic related to China; 3) faculty are often directly connected to combatant commands interested in the China subject and are interested in sponsoring student research of interest to the command; and 4) China centers organize conferences on the Chinese military to which PME students can benefit greatly from exposure to developing research on the PLA. \u00a0This is of course an incomplete list, and additional contributions will be discussed at the forum. \u00a0A discussion solely on the positive contributions China Research Centers play in PME institutions would paint an incomplete picture. \u00a0The presentation of this topic will also discuss the challenges of such centers directly contributing to the teaching of China military subject matter at PME institutions. \u00a0Some of these challenges include: \u00a0aligning the skill sets of research faculty with those curriculum requirements of PME schools; competing pressures on research centers to support the Service at large instead of students; reluctance of teaching faculty at a PME institution with broad expertise in China to permit research faculty classroom time; and tension between time devoted to research out in the field (in Asia-Pacific or Taiwan) and time in the classroom."
+  },
+  {
+    "id": "session-57",
+    "day": 1,
+    "title": "Team Science in Chemistry to Develop Applied Leadership Skills",
+    "speaker": "Associate Professor Julia Ham, Associate Professor Jennifer Guerard, Associate Professor Melonie Teichert, Professor Shirley Lin, Distinguished Visiting Professor Joi Walker",
+    "institution": "United States Naval Academy, Annapolis, MD",
+    "track": "Educational Technology",
+    "abstract": "The United States Naval Academy\u2019s (USNA\u2019s) Core Learning Outcomes emphasize the integration of undergraduate education with the character development and professional training necessary to instill officers with the ideals essential for effective leadership in the Naval Service. At the top of the list of Core Learning Outcomes is the ability to apply leadership skills, including motivating a team to accomplish objectives. The USNA Chemistry Department is addressing this Core Learning Outcome through the implementation of a Team Science model within the Foundations of Chemistry I & II courses. Team Science provides a framework for midshipmen to work in teams to design laboratory investigations that address guiding questions aligned with technical course learning objectives. Team Science requires that students effectively work in teams and communicate under time constraints. This presentation will discuss the implementation and assessment of the Team Science teaching method across the majority of Foundations of Chemistry I & II sections and highlight the skills midshipmen learn which are highly transferable to the fleet."
+  },
+  {
+    "id": "session-58",
+    "day": 1,
+    "title": "The Considerist Papers: A Scaffolded Trilogy on Veteran Educator Identity",
+    "speaker": "Dr. Ramiro De Anda, Dr. Daniel Goff",
+    "institution": "U. S. Naval Community College, Quantico, VA",
+    "track": "Evidence-Based",
+    "abstract": "This presentation introduces\u00a0The Considerist Papers, a scaffolded trilogy examining what happens when military formation (the systematic process by which military institutions shape identity, values, and pedagogy) enters the humanities classroom, what the veteran-educator must become to serve military students, and what that educator owes the students who share their formation. The trilogy moves through three phases: diagnostic, prescriptive, and relational-obligational."
+  },
+  {
+    "id": "session-59",
+    "day": 1,
+    "title": "Authentic Assessment: Bridging the Gap Between Knowledge and Operational Judgment",
+    "speaker": "Dr. Angel Jowers, Dr. Jonathan Cellon",
+    "institution": "Air Force Global College, Montgomery, AL",
+    "track": "Educational Technology",
+    "abstract": "Distance educational programs have traditionally relied on threaded discussion boards, written examinations and standardized testing to measure student learning, yet these methods often fail to capture the complex decision-making, adaptability, and leadership judgment required in military operational environments. This presentation examines the design and implementation of authentic assessment practices within the Air Force Global College (AFGC), arguing that assessments modeled on real-world military challenges\u2014scenario-based exercises, simulations, after-action reviews, and capstone projects\u2014better measure a student's readiness to perform under the ambiguity and pressure characteristic of military operations."
+  },
+  {
+    "id": "session-60",
+    "day": 1,
+    "title": "An Investigation of Professional Development and Awareness of Mind, Brain, and Education Science in Community College Instruction: A Quantitative Study",
+    "speaker": "Dr. Rolando Medina",
+    "institution": "Defense Language Institute English Language Center, San Antonio, TX",
+    "track": "Educational Technology",
+    "abstract": "This quantitative study explored awareness of brain-based pedagogical strategies and neuromyths among community college instructors, and how awareness may affect instructional practice\u2014findings that hold direct and actionable application for military education contexts. Additionally, the study aimed to investigate any relationship between professional development and awareness of pedagogical strategies and neuromyths. Community college instructors from two institutions of higher education took a survey. Qualitative results demonstrated variability in accuracy in both neuromyths and general statements about the brain, learning sciences, and Mind, Brain, and Education (MBE) Science. Misconceptions and uneven knowledge are broadly distributed rather than concentrated within particular educator profiles or contexts. Professional development was positively associated with stronger awareness of neuromyths and brain-based pedagogical practices. Participants endorsed neuroscience-informed content as both interesting and useful for teaching, course development, and professional learning."
+  },
+  {
+    "id": "session-61",
+    "day": 1,
+    "title": "Communication Competency Growth Across the Officer Lifecycle",
+    "speaker": "Dr. James Nye1, Mr. Gregory Burbelo2, Dr. Gregory Wilson2, Dr. Trent Lythgoe3, Dr. Abigail Stonerock4, Dr. Trevor Robichaux5",
+    "institution": "1U.S. Army Research Institute for the Behavioral and Social Sciences, Fort Leavenworth, KS. 2Peraton, Reston, VA. 3U.S. Army Command and General Staff College, Fort Leavenworth, KS. 4U.S. Army War College, Carlisle Barracks, PA. 5Manuever Center of Excellence, Fort Benning, GA",
+    "track": "Educational Technology",
+    "abstract": "The U.S. Army Research Institute for the Behavioral and Social Sciences (ARI) will host a panel to discuss how leaders develop and adapt communication competencies as they advance across the career lifecycle. ARI worked with military subject matter experts (Peraton) and Army leadership educators from three Professional Military Education (PME) institutions to build a model of developmental trajectories for fifteen communication competencies required of Army leaders. The research team examined how changing leadership demands require leaders to adapt their communication competencies as they transition from direct to organizational to strategic levels of leadership.\u00a0We produced a communication growth guide, the Army Leader\u2019s Guide to Communication, intended to accelerate leaders\u2019 communication development across their careers. The guide describes how the competencies manifest at different leadership levels and provides resources to support leaders as they transition between levels. The guide will be made available to all attendees."
+  },
+  {
+    "id": "session-62",
+    "day": 1,
+    "title": "AI Use and Attitudes at the US Naval War College: Results from 2025-2026 Surveys",
+    "speaker": "Dr. Amanda Rosen, Dr. Lisa Kerr",
+    "institution": "US Naval War College, Newport, RI",
+    "track": "Educational Technology",
+    "abstract": "This session presents the latest results of the now-biannual survey of AI Use and Attitudes at the US Naval War College. We will share how patterns and beliefs about AI have changed since the spring of 2025 at the College among faculty, staff, and students. The new data is drawn from graduating July 2026 students, allowing for comparison with those same student responses from the start of their program in fall 2025. The session will present the complete survey methodology, research questions, and findings from the data, showing how students are using AI in their classes and their perceptions on the role of AI in education. We will also share some findings from the new staff and faculty data, which presents some interesting comparisons to student attitudes and use."
+  },
+  {
+    "id": "session-63",
+    "day": 1,
+    "title": "Scenario-Based Training for the Future of Security Cooperation in the Space and Cyber Domains in the Western Hemisphere",
+    "speaker": "Dr Fabiana Perera",
+    "institution": "Defense Security Cooperation University, Arlington, VA",
+    "track": "Educational Technology",
+    "abstract": "The rapidly evolving landscape of the space and cyber domains presents complex and unforeseen challenges to international security. Aligning with the 2026 National Security Strategy's directive to prioritize the Western Hemisphere, the ability to move beyond conventional thinking and anticipate future threats is paramount for the security cooperation workforce to maintain regional stability and effective partnerships. This paper addresses a critical gap in current training paradigms: the need for a structured pedagogical method that fosters deep, innovative thinking about complex, long-term security challenges."
+  },
+  {
+    "id": "session-64",
+    "day": 1,
+    "title": "Studying Generative AI Across the Curriculum: Lessons from a Multi-Semester SoTL Initiative",
+    "speaker": "Data Science Program Director Brianna Hitt, Director for the Scholarship of Teaching and Learning Lauren Scharff, Director of the Communication Strategies Center Elisa Cogbill-Seiders, Assistant Professor of Mathematical Sciences Emily Knight",
+    "institution": "United States Air Force Academy, Colorado Springs, CO",
+    "track": "Educational Technology",
+    "abstract": "Generative AI has rapidly entered higher education, prompting instructors to make decisions about when, where, and how these tools should be incorporated into teaching and learning. While many studies focus on a single course or implementation, understanding the broader educational impact of generative AI requires research that crosses disciplinary and classroom boundaries."
+  },
+  {
+    "id": "session-65",
+    "day": 1,
+    "title": "When Educational Need Becomes Invisible: SPED and ELL Backgrounds Among Enlisted Marines and Implications for Professional Military Education Completion",
+    "speaker": "Dr. Lindsay Reid",
+    "institution": "Marine Corps University, Quantico, Virginia",
+    "track": "Assessment",
+    "abstract": "This study addresses a significant gap in educational research concerning the enlisted personnel within the USMC and its required Professional Military Education (PME). While extensive literature exists on academic supports in K-12 and postsecondary settings, minimal research has evaluated the educational histories and resulting support needs of enlisted Marines. With a diverse population in the Corps itself (U.S. Department of Defense) and students within high school settings viewing it as a stable career choice post-graduation, there is a large gap in identifying services needed for those Marines. This holds especially true with the enlisted Marines in comparison to their officer counterparts. Employing an intersectional framework, this research investigates how an enlisted Marine's prior utilization of special education (SPED) or English language learner (ELL) services in high school affects their ability to complete mandatory PME in a timely manner for promotion."
+  },
+  {
+    "id": "session-66",
+    "day": 1,
+    "title": "Integrating Visual Storytelling into Teaching Responsible AI-Assisted Research in PME",
+    "speaker": "Dr. Katy Denman, Dr. Todd Holm",
+    "institution": "Marine Corps University, Quantico, VA",
+    "track": "Educational Technology",
+    "abstract": "Generative artificial intelligence (GenAI) has changed how professional military education (PME) students approach research and writing. Although GenAI can be a powerful research assistant, it can also assume cognitive work students should practice themselves. Kosmyna et al. (2025) found lower levels of cognitive engagement and ownership among participants who used GenAI in a writing task. Cramer (2026) found that the more people allowed GenAI to think for them, the less capable they were without it. Similarly, a review of empirical studies found that GenAI can support critical thinking but also can lead to cognitive offloading without sufficient faculty support (Li et al., 2026). These findings raise an important question for PME educators: How can faculty teach students to use GenAI to aid, rather than replace, the cognitive work essential to their intellectual development and learning outcomes?"
+  },
+  {
+    "id": "session-67",
+    "day": 1,
+    "title": "A Laboratory Assessment Instrument Based on Authentic Science Practices that Align with Warfighter Skill Development",
+    "speaker": "Dr. Shirley Lin, Dr. Jennifer Guerard, Dr. Julia Ham, Dr. Melonie Teichert, Dr. Joi Walker",
+    "institution": "US Naval Academy, Annapolis, MD",
+    "track": "Faculty Development",
+    "abstract": "The United States Naval Academy (USNA) is the nation\u2019s premiere undergraduate college for preparing junior officers to commission in the Navy and the Marine Corps. The USNA core curriculum (\u201cthe core\u201d) enables all midshipmen to graduate with STEM-relevant skills such as fluency in science and engineering, the ability to solve technical problems, and effective communication. The two-semester core general chemistry sequence in the first (plebe) year addresses these important learning outcomes through providing students with opportunities to engage in authentic science practices coupled with opportunities for small-group leadership. This presentation will describe a recent initiative to incorporate arguing from evidence and team science into laboratory experiments. We will also report on the design and results of an assessment to capture the effect of these changes which indicated a positive impact on students\u2019 proficiency with scientific practices. These experiences contribute broadly to the early development of warfighters to meet the current needs of the Fleet."
+  },
+  {
+    "id": "session-68",
+    "day": 1,
+    "title": "Learning Statistics with Generative AI: Student Experiences and Lessons for Classroom Integration",
+    "speaker": "Dr. Brianna Hitt, Dr. Jessica Hauschild-Eastman",
+    "institution": "United States Air Force Academy, Colorado Springs, CO",
+    "track": "Educational Technology",
+    "abstract": "Generative AI presents introductory statistics instructors with both opportunities and challenges. Students increasingly enter our classrooms with experience using AI tools, yet simply permitting\u2014or prohibiting\u2014their use does little to help students understand when these tools support learning, when they may interfere with it, and how they can be used responsibly. This raises an important pedagogical question: What happens when generative AI is intentionally incorporated into an introductory statistics course as part of the learning process? This presentation examines the implementation of generative AI in introductory statistics courses at the U.S. Air Force Academy as part of a broader, multi-semester Scholarship of Teaching and Learning initiative. Across several semesters, generative AI has been incorporated into course activities and learning experiences while students have provided pre- and post-course feedback. Questionnaire responses examine students\u2019 prior AI experience, comfort and trust, perceptions of AI\u2019s effects on their understanding of course material, concerns about appropriate use, and attitudes toward using AI in future courses."
+  },
+  {
+    "id": "session-69",
+    "day": 1,
+    "title": "Army Data and AI Literacy Education: Where We Are Now and Where We Are Going",
+    "speaker": "LTC Elvin Fortuna1, LTC Anthony Joyce2, MAJ Mark Seimetz1, Dr. Matthew Scott3, Mr. Ryan Strong1",
+    "institution": "1Combined Arms Command, Fort Leavenworth, KS. 2Command and General Staff College, Fort Leavenworth, KS. 3Applied Research and Analytics Directorate, Combined Arms Command, Fort Leavenworth, KS",
+    "track": "Educational Technology",
+    "abstract": "As artificial intelligence and data analytics become foundational to military operations, Professional Military Education (PME) institutions face a critical inflection point: assessing where they currently stand and determining where they need to go. This 45-minute panel brings together diverse operational, educational, and research perspectives from the U.S. Army Combined Arms Command (CAC) and the Command and General Staff College (CGSC) to evaluate the trajectory of Army data and AI literacy education."
+  },
+  {
+    "id": "session-70",
+    "day": 1,
+    "title": "The Reverse Centaur: When Being Human is the Augmentation to a Machine",
+    "speaker": "Dr. William Barry",
+    "institution": "Army War College, Carlisle, PA",
+    "track": "Educational Technology",
+    "abstract": "A\u00a0reverse centaur is a human educator whose teaching, learning, and identity transform the human decision maker from augmentation by artificial intelligence (AI) and/or digital intelligence (DI)\u00a0in the form of talking avatars, android robots, and/or conversational \"speaking and listening\" machines to the human being the augmentation an \"intelligent\" machine. The traditional centaur uses the machine to augment the human."
+  },
+  {
+    "id": "session-71",
+    "day": 1,
+    "title": "Beyond the Prompt: Critically Evaluating AI-Generated Products to Assess Learning Outcomes and Lesson Objectives",
+    "speaker": "Dr. John Casey",
+    "institution": "Joint and Combined Warfighting School, Norfolk, VA",
+    "track": "Educational Technology",
+    "abstract": "JPME students increasingly use generative AI to develop research papers, course-of-action briefs, and practical-exercise products. The resulting challenge for instructors is not simply determining whether AI was used, but whether students can analyze, explain, and validate AI-generated output in ways that demonstrate achievement of stated learning objectives and desired student behaviors."
+  },
+  {
+    "id": "session-72",
+    "day": 1,
+    "title": "\"Will This Be on the Exam?\" Calibrating Student Understanding of Course Standards with LLM-Generated Assessments",
+    "speaker": "LCDR Justin Downs",
+    "institution": "United States Naval Academy, Annapolis, MD",
+    "track": "Educational Technology",
+    "abstract": "Written learning objectives, however explicit, cannot fully convey the breadth, depth, cognitive task, and standard expected in a course. The task of communicating course expectations involves transferring significant tacit knowledge from instructor to student. Instructors use a variety of techniques to achieve this, including assignment feedback, periodic quizzes, exemplars, and peer evaluations. This work-in-progress project asks whether we can add a new tool to the toolbox: an LLM-based system that generates practice exams, grades them, and gives feedback. The system treats a course's requirements as the \"universe of possible assessments.\" For any unit, students can generate unlimited practice exams, submit answers, and receive course-aware feedback and a grade, and can read the instructor-authored prompt that drives it. Graded, closed-book unit exams are produced and scored by the same system under proctored conditions, so practice and summative assessments sample the same universe."
+  },
+  {
+    "id": "session-73",
+    "day": 1,
+    "title": "Self-Development Decision-Making in Army Leaders",
+    "speaker": "Research Psychologist Stefanie Stancato",
+    "institution": "Army Research Institute, Fort Leavenworth, KS",
+    "track": "Educational Technology",
+    "abstract": "The U.S. Army identifies self-development as a foundational pillar of leader development, alongside institutional training and operational assignments. Unlike standardized education programs, self-development relies entirely on individual initiative, requiring Soldiers and officers to proactively pursue growth across personal, professional, and psychological dimensions. However, competing operational demands and time constraints often lead officers to deprioritize self-development in favor of immediate mission requirements, creating a critical gap in long-term leader development. This presentation reports findings from a multi-phase research project designed to address this challenge through 1) a theoretical framework characterizing how Army officers evaluate self-development opportunities relative to time investment, 2) a validated assessment instrument to measure decision-making processes underlying self-development engagement, 3) an experimental test of two behavioral nudges designed to increase participation in self-development activities, and 4) a practical job aid for mentors, instructors, and coaches who support officer development. We employed a 2x2 mixed methods design for within subject, where one factor is time (pre- vs. post-Episodic Future Thinking (EFT)) and a between-subject design for evaluating EFT with positive framing vs. Episodic Recent Thinking (ERT) with negative framing. We anticipate presenting our findings and emerging insights on how Soldiers value delayed self-development outcomes, the effectiveness of the nudges evaluated, and actional insights for military education institutions, unit leaders, and talent management systems seeking to cultivate a sustainable culture of continuous learning. By identifying specific behavioral barriers and effective intervention strategies, this research provides evidence-based tools to enhance self-development engagement without adding to officers\u2019 administrative burden\u2014ultimately strengthening the Army\u2019s leader development enterprise and operational readiness."
+  },
+  {
+    "id": "session-74",
+    "day": 1,
+    "title": "Who Does the Thinking? AI Delegation, Disclosure, and the Development of Judgment in Professional Military Education",
+    "speaker": "Lt Col Jon Oswald",
+    "institution": "Air Command and Staff College, Maxwell AFB, AL",
+    "track": "Educational Technology",
+    "abstract": "When should professional military education delegate work to artificial intelligence, and how should educators distinguish human reasoning from judgment exercised over machine-generated work? These questions matter because PME develops officers through the cognitive effort of framing problems, confronting ambiguity, and defending decisions. Automating that effort may improve production while undermining learning. This conceptual work in progress pairs two tools for aligning AI use with educational purpose. Its approach draws on literature concerning AI and critical thinking, adapts Nathaniel Whittemore\u2019s AI Deputization Audit to PME, and proposes a complementary disclosure taxonomy."
+  }
+]

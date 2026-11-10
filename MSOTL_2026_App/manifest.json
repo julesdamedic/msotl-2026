@@ -1,0 +1,22 @@
+{
+  "name": "MSOTL 2026 Forum Guide",
+  "short_name": "MSOTL 2026",
+  "description": "7th Annual Military Scholarship of Teaching & Learning Forum Guide",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#070D1E",
+  "theme_color": "#002060",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icons/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}

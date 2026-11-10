@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; connect-src 'self'; frame-src 'none'; object-src 'none';">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>MSOTL 2026 Forum Guide</title>
+  <link rel="manifest" href="manifest.json">
+  <meta name="theme-color" content="#002060">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="apple-mobile-web-app-title" content="MSOTL 2026">
+  <link rel="apple-touch-icon" href="icons/icon-192.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <div class="header-top">
+      <img src="icons/icon-192.png" alt="MCU Seal" class="header-logo">
+      <div class="header-title-box">
+        <h1>MSOTL 2026</h1>
+        <h2>7th Annual Forum Guide</h2>
+        <p>Marine Corps University • Dec 9–10</p>
+      </div>
+    </div>
+
+    <div class="search-box">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="searchInput" placeholder="Search sessions, speakers, institutions...">
+    </div>
+
+    <div class="day-tabs">
+      <button class="day-tab active" data-day="1">Day 1 (Dec 9)</button>
+      <button class="day-tab" data-day="2">Day 2 (Dec 10)</button>
+      <button class="day-tab" data-day="saved">★ My Schedule (<span id="savedCount">0</span>)</button>
+    </div>
+  </header>
+
+  <div class="track-scroller" id="trackFilters">
+    <button class="track-pill active" data-track="ALL">All Tracks</button>
+    <button class="track-pill" data-track="Educational Technology">AI & EdTech</button>
+    <button class="track-pill" data-track="Wargaming & Simulation">Wargaming</button>
+    <button class="track-pill" data-track="Evidence-Based">Evidence-Based</button>
+    <button class="track-pill" data-track="Faculty Development">Faculty Dev</button>
+    <button class="track-pill" data-track="Distributed Learning">Distributed</button>
+    <button class="track-pill" data-track="Assessment">Assessment</button>
+    <button class="track-pill" data-track="Learning Theories">Andragogy</button>
+    <button class="track-pill" data-track="Research Methods">Research</button>
+  </div>
+
+  <main class="container">
+    <div class="results-meta" id="resultsCount">Loading agenda...</div>
+    <div id="sessionList"></div>
+  </main>
+
+  <div class="modal-overlay" id="abstractModal">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h3 id="modalTitle"></h3>
+        <button class="modal-close" id="modalClose">&times;</button>
+      </div>
+      <div class="modal-meta" style="font-size: 12px; color: #D4AF37; margin-bottom: 10px;" id="modalSpeaker"></div>
+      <div class="modal-body" id="modalAbstract"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
